@@ -1,0 +1,3 @@
+1. Create a repo, initialize and commit.
+2. Take a clone of your repo creates in task 1 and add some changes, commit and push your changes.
+3. Takea clone of my repo,create a folder of your name, add some changes only in your folder, commit and push.
